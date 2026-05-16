@@ -1,5 +1,3 @@
-# CSE572-Group-20
-
 # E-Commerce Customer Segmentation using Clustering
 
 ## 📌 Project Overview
